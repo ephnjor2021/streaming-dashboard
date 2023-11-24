@@ -80,7 +80,7 @@ PARTITION BY DAY;
 
 After executing the command, we will see a success message in the bottom left corner, confirming that the table creation was successful and the table appears on the right-hand side's table list view.
 
-![img](./images/Screenshot-2021-10-26-at-17.15.22.png)
+![img](./images/Screenshot-0.0.png)
 
 Voilá! The table is ready for use.
 
